@@ -1,5 +1,5 @@
 ### Hi there 👋
-- ⚡ I use GitHub to store any ~~un~~finished projects.
+⚡ I use GitHub to store any ~~un~~finished projects.
   
 <!--
 **atharvnaik/atharvnaik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
